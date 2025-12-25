@@ -24,13 +24,13 @@ repository               : "saramorini-sys/saramorini.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Sara Morini"
+  pronouns         : "she/her"  
+  bio              : "Sara Morini is a PhD Candidate in Civilizations of Asia and Africa at Sapienza University of Rome"
+  location         : "Rome, Italy"
+  employer         : "Sapienza University of Rome"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sara.morini@uniroma1.it" 
 
   # Academic websites
   academia         : # URL
